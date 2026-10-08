@@ -1,0 +1,4 @@
+python
+print("Hello, World")
+print("My name is Nikita")
+print("I want to study Computer Science in China")
