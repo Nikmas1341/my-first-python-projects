@@ -1,4 +1,6 @@
 python
-print("Hello, World")
-print("My name is Nikita")
-print("I want to study Computer Science in China")
+print("Hello, World!")
+print("I am a future Software Engineer.")
+print("My goal is to study in China.")
+print("Mathematics and Computer Science are awesome!")
+print("Code successfully executed.")
