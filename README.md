@@ -1,2 +1,15 @@
+markdown
 # my-first-python-projects
-A collection of my first Python programs and university prep assignments
+
+Мой первый репозиторий с кодом на Python. Здесь я учусь сохранять и обновлять файлы на GitHub.
+
+## Что внутри
+- `hello_nikita.py` — выводит три фразы: приветствие, имя и цель обучения.
+
+## Как запустить
+1. Установи Python (если ещё нет).
+2. Сохрани файл `hello_nikita.py` на компьютере.
+3. В терминале запусти: `python hello_nikita.py`
+
+## Статус
+🎓 В процессе обучения. Обновляю по мере изучения Python.
